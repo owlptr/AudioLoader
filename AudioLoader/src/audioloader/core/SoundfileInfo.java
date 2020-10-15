@@ -1,4 +1,4 @@
-package core;
+package audioloader.core;
 
 import java.util.Arrays;
 import java.util.List;

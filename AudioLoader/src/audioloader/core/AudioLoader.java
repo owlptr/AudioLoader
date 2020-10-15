@@ -1,4 +1,4 @@
-package core;
+package audioloader.core;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

@@ -1,9 +1,9 @@
-package test;
+package audioloader.test;
 
 import java.io.FileNotFoundException;
 
-import core.AudioLoader;
-import core.SoundfileInfo;
+import audioloader.core.AudioLoader;
+import audioloader.core.SoundfileInfo;
 
 public class Tester {
 	public static void main(String[] args) {
